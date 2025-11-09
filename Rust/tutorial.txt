@@ -1,0 +1,8 @@
+how to use cargo for rust projects
+make new project with new folder: cargo new (name)
+makes your current folder into a project: cargo init
+add/ remove dependencies (the stuff u include): cargo add/remove (name of dependencies)
+compile into a exe: cargo build --release
+run the file: cargo run
+clears all the artifacts: cargo clean
+tells u all the errors and warnings: cargo clippy

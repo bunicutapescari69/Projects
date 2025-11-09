@@ -1,0 +1,10 @@
+C:\Projects\Rust\basics\target\debug\deps\gprimitives-41ff1fb07c52dc1f.d: C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs
+
+C:\Projects\Rust\basics\target\debug\deps\libgprimitives-41ff1fb07c52dc1f.rlib: C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs
+
+C:\Projects\Rust\basics\target\debug\deps\libgprimitives-41ff1fb07c52dc1f.rmeta: C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs
+
+C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs:
+C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs:
+C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs:
+C:\Users\stefan.vartolomei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs:
