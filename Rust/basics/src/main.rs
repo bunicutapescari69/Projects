@@ -2,7 +2,11 @@ use std::io;//importing input output library
 fn main() {
     println!("FUCK NIGGERS FUCK NIGGERS FUCK NIGGERSS");//how to print
 
-    //inputting::
+    //variables:
+    let n: i32=9; //ts is a constant, for a variable, put mut between let and n
+    println!("You can {} print variables in certain spots", n); //even if y dont wanna choose a certain spot, the {} gimmick is mandatory
+
+    //inputting:
     let mut a = String::new(); // !! AT FIRST, WHEN INPUTTING TO A VARIABLE, WE GOTTA MAKE IT A STRING TO STORE THE INPUT !!
     //let mut a: u8 = a.trim().parse().expect("Please type a valid number!"); //simpler but this will crash if not a number
 
