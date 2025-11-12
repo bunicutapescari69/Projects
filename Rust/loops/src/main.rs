@@ -11,7 +11,7 @@ fn main() {//now were gonna talk abt loops
     } else {
         println!("numba biger than 5");
     }
-    println!("");
+    println!();
 
     //while
 
@@ -19,7 +19,7 @@ fn main() {//now were gonna talk abt loops
         println!("{}", num);
         num+=1;
     }
-    println!("");
+    println!();
 
     //for
     
@@ -33,7 +33,7 @@ fn main() {//now were gonna talk abt loops
     for e in e.iter() {
         println!("{}", e);
     }
-    println!("");
+    println!();
 
     //now the new rust specific loop:
 
@@ -60,9 +60,10 @@ fn main() {//now were gonna talk abt loops
             continue;
         }
     }
-    println!("");
+    println!();
 
     //and THO ONE AND ONLY match
+    
     println!("{}", num); //rn num is 2
     match num {
         1 => println!("num is one"),
