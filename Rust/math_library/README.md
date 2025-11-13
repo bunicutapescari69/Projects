@@ -1,0 +1,1 @@
+This is a library with mathematical functions. Wether common, or less common, it'll definitely help you code faster and make it more enjoyable.

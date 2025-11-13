@@ -1,11 +1,19 @@
 [package]
 name = "math_library"
-version = "1.0.0"
+version = "1.2.0"
 edition = "2024"
 authors = ["bunicutapescari69 <vmihaelamariana@gmail.com>"]
 description = "A math library"
 license = "Unlicense"
 keywords = ["math", "arithmetic"]
 categories = ["mathematics"]
+exclude =["target/*"]
+documentation = "https://docs.rs/math_library"
+
+[profile.dev]
+incremental = false
+
+[profile.release]
+incremental = false
 
 [dependencies]
